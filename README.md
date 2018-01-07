@@ -1,15 +1,11 @@
 # projTester
-Epitech first year project : [CPE] projTester
+Epitech first year project : projTester
 
-Second mathematic module project of the first year
+Deadline : 5 days
 
-Deadline : 2 weeks
+Beginning of the project : 22/06/2016, 08h00
 
-Beginning of the project : 16/11/2015, 07h42
-
-Group size : 2 person
-
-Contributor : collet_j
+Group size : 1 person
 
 # projTester
 
